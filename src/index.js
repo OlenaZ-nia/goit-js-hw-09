@@ -1,4 +1,5 @@
 // import './js/task'
+import './css/styles.css'
 import galleryItems from './js/data/app';
 
 import refs from './js/refs';
